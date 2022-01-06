@@ -1,4 +1,5 @@
 def feature2(a, b):
+    print('titio')
     print('function 2 is working')
     print(f'result is {a+b}')
 
